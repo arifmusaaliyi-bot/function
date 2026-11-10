@@ -1,2 +1,1 @@
-# function
-lab quize function
+
